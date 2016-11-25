@@ -15,7 +15,12 @@ npm install -g pirate-virus
 If you install it globally "pv" will be on your path.
 
 ```
+# just run forever
 pv
+
+# only run for 5 seconds
+pv -s 5
+
 ```
 
 Something like this will happen:

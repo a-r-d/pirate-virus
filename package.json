@@ -1,0 +1,31 @@
+{
+  "name": "pirate-virus",
+  "version": "1.0.0",
+  "description": "a pirate virus like the one from archer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pv": "bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-r-d/pirate-virus.git"
+  },
+  "keywords": [
+    "pirate",
+    "virus",
+    "archer"
+  ],
+  "author": "Aaron Decker <aaron@ard.ninja> (http://ard.ninja)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-r-d/pirate-virus/issues"
+  },
+  "homepage": "https://github.com/a-r-d/pirate-virus#readme",
+  "dependencies": {
+    "terminal-kit": "^0.25.2",
+    "yargs": "^6.4.0"
+  }
+}

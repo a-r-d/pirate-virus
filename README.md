@@ -1,5 +1,7 @@
 # pirate-virus
 
+[![NPM](https://nodei.co/npm/pirate-virus.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pirate-virus/)
+
 A pirate virus terminal app, like the one [from Archer without audio](https://www.youtube.com/watch?v=dzzqFFKwOik). Built this with [terminal-kit](https://github.com/cronvel/terminal-kit).
 
 
